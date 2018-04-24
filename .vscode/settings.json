@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "ble.h": "c",
+        "debug_usart.h": "c",
+        "qs808_drive.h": "c",
+        "my_board.h": "c",
+        "ut588c.h": "c",
+        "gatelock.h": "c",
+        "data_def.h": "c"
+    }
+}
